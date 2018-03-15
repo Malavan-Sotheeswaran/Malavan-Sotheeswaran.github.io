@@ -1,0 +1,21 @@
+body{
+    background-image: url("202125.jpg");
+    color: white;
+    text-align: justify;
+}
+a{
+    color: orange;
+}
+ul{
+    list-style-position: inside;
+}
+header{
+    background-color: orange;
+    position: top;
+    background-image: url("wow.jpg")
+}
+button{
+    background-image: url("butt.jpg");
+    background-size: contain;
+    border: transparent;
+}
