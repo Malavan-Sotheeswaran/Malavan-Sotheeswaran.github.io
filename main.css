@@ -2,23 +2,33 @@ body{
     background-image: url("202125.jpg");
     color: white;
     text-align: justify;
-    height: 100%;
-    width: 100%;
 }
 a{
     color: orange;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f1/HILLBLU_button_background.svg");
 }
 ul{
     list-style-position: inside;
 }
 header{
-    background-color: orange;
-    position: top;
-    background-image: url("wow.jpg")
+    background-color: slateblue;
+    position: fixed;
+    color: black;
+    width: 100%;
+    height: 5%;
+    left: 0px;
+    top: 0px;
+    font-size: 35pt;
 }
 button{
-    background-image: url("butt.jpg");
+    background-color: tomato;
     background-size: contain;
     border: transparent;
+    position: relative;
+    left: 42%;
+    top: -20%;
+    font-size: 25pt;
+}
+button:hover{
+    color: blue;
+    background-color: turquoise;
 }
