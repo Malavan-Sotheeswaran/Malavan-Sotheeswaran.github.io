@@ -17,7 +17,7 @@ header{
     height: 5%;
     left: 0px;
     top: 0px;
-    font-size: 35pt;
+    font-size: 225%;
 }
 .content{
     margin-top: 3%;
@@ -27,9 +27,9 @@ button{
     background-size: contain;
     border: transparent;
     position: relative;
-    left: 42%;
-    top: -20%;
-    font-size: 25pt;
+    left: 45%;
+    top: 5%;
+    font-size: 100%;
 }
 button:hover{
     color: blue;
