@@ -22,6 +22,10 @@ header{
 .content{
     margin-top: 55px;
 }
+.rickroll{
+    text-underline-position: unset;
+    color: black;
+}
 button{
     background-color: tomato;
     background-size: contain;
